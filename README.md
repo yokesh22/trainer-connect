@@ -22,5 +22,4 @@ screenshots :
 ![Screenshot (89)](https://user-images.githubusercontent.com/82433820/213765621-c2558a47-6eeb-47c7-b0e3-791d15db3d2e.png)
 
 
-Thanks for watching,
-this is last minute push so I have pushed the entire directory without any git.ignore,etc..
+Thanks for watching.
